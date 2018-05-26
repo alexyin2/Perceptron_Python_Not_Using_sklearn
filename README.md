@@ -1,4 +1,4 @@
-# Perceptron_Python_Not_Using_sklearn
+# Perceptron
 1. This is a practice of helping me to learn the background mathematics in Perceptron.
 2. The coding part is based on [lazy Programmer]
 ***
